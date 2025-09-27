@@ -23,6 +23,8 @@ O grande diferencial é a integração de um modelo de **Análise de Sentimento*
 Experimento documentado: [https://www.kaggle.com/code/palaciodata/classification-sentiment](https://www.kaggle.com/code/palaciodata/classification-sentiment)  
 Dados: [https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis)  
 Você ira encontrar o modelo na pasta model juntamente com o tokenizador utilizado durante o treinamento
+
+
 ---
 
 ### Métricas de Treinamento
