@@ -6,7 +6,6 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.io/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Licença](https://img.shields.io/badge/License-[TIPO_DE_LICENÇA]-brightgreen.svg?style=for-the-badge)](LICENSE)
 
 ---
 
@@ -15,6 +14,19 @@
 Este é um sistema robusto de **gerenciamento de comentários** construído com **Streamlit**, **Python** e **Supabase**. Ele não é apenas um CRUD (Create, Read, Update, Delete), mas um sistema inteligente focado em insights imediatos.
 
 O grande diferencial é a integração de um modelo de **Análise de Sentimento** em tempo real. Toda vez que um comentário é publicado ou editado, ele é classificado automaticamente, fornecendo feedback visual instantâneo ao usuário.
+
+O modelo foi treinado e o experimento está documentado na plataforma Kaggle com o seguinte link: [https://www.kaggle.com/code/palaciodata/classification-sentiment](https://www.kaggle.com/code/palaciodata/classification-sentiment)
+assim como os dados utilizados open-source da plataforma: [https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis)
+
+---
+
+### Métricas de Treinamento
+
+| Métrica | Visualização |
+| :--- | :--- |
+| Perda (Loss) durante o Treinamento | ![Gráfico de Perda durante o treinamento](img/losses.png) |
+| Matriz de Confusão | ![Matriz de confusão](img/matrix.png) |
+| Precisão por Classe | ![Precisão para cada classe](img/precision.png) |
 
 ### Funcionalidades em Destaque:
 
@@ -40,16 +52,6 @@ O grande diferencial é a integração de um modelo de **Análise de Sentimento*
 
 ---
 
-## ⚙️ Configuração e Instalação
-
-Siga estes passos para configurar e rodar o projeto localmente.
-
-### Pré-requisitos
-
-* Python (3.8+)
-* Conta no Supabase
-
-### 1. Clonar o Repositório
 
 ```bash
 git clone [https://www.youtube.com/shorts/apr341idq8U](https://www.youtube.com/shorts/apr341idq8U)
