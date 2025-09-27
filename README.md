@@ -1,4 +1,9 @@
-# 🐦 [TwitSense]
+# 🐦 TwitSense
+
+| Plataforma |
+| :--- | 
+| ![](img/comment.png) |  
+
 
 ## Gerenciador de Comentários com Análise de Sentimento em Tempo Real
 
@@ -15,8 +20,8 @@ Este é um sistema robusto de **gerenciamento de comentários** construído com 
 
 O grande diferencial é a integração de um modelo de **Análise de Sentimento** em tempo real. Toda vez que um comentário é publicado ou editado, ele é classificado automaticamente, fornecendo feedback visual instantâneo ao usuário.
 
-O modelo foi treinado e o experimento está documentado na plataforma Kaggle com o seguinte link: [https://www.kaggle.com/code/palaciodata/classification-sentiment](https://www.kaggle.com/code/palaciodata/classification-sentiment)  
-assim como os dados utilizados open-source da plataforma: [https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis)  
+Experimento ocumentado na plataforma Kaggle com o seguinte link: [https://www.kaggle.com/code/palaciodata/classification-sentiment](https://www.kaggle.com/code/palaciodata/classification-sentiment)  
+Dados utilizados open-source da plataforma: [https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis)  
 Você ira encontrar o modelo na pasta model juntamente com o tokenizador utilizado durante o treinamento
 
 ---
