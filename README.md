@@ -1,4 +1,4 @@
-# 🌟 [TwitSense]
+# 🐦 [TwitSense]
 
 ## Gerenciador de Comentários com Análise de Sentimento em Tempo Real
 
@@ -30,7 +30,7 @@ assim como os dados utilizados open-source da plataforma: [https://www.kaggle.co
 
 ### Funcionalidades em Destaque:
 
-* **Análise de Sentimento em Tempo Real:** Classificação instantânea (`positivo`, `negativo`, `neutro`, `irrelevante`) usando um *callable model* (`model_predict_fn`).
+* **Análise de Sentimento em Tempo Real:** Classificação instantânea (`positivo`, `negativo`, `neutro`, `irrelevante`) usando modelo LSTM(Long shot memory).
 * **Resumo de Sentimentos (Dashboard):** Exibição de métricas visuais que totalizam os comentários por cada categoria de sentimento.
 * **Visualização Clara:** Cada comentário na lista é marcado com uma bolinha colorida:
     * **🟢 Positivo**
