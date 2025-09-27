@@ -47,8 +47,8 @@ assim como os dados utilizados open-source da plataforma: [https://www.kaggle.co
 | :--- | :--- | :--- |
 | **Interface (UI)** | **Streamlit** | Criação rápida e interativa do front-end. |
 | **Backend/Lógica** | **Python** | Regras de negócio e chamada ao modelo de IA. |
-| **Banco de Dados** | **Supabase (PostgreSQL)** | Persistência de dados e execução de funções RPC. |
-| **Análise de Sentimento** | `model_predict_fn` | Função de classificação de texto (simulada ou real). |
+| **Banco de Dados** | **Supabase (PostgreSQL)** | Persistência de dados e execução de funções. |
+| **Análise de Sentimento** | Modelo LSTM | Classificação de texto. |
 
 ---
 
