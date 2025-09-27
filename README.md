@@ -57,8 +57,3 @@ Você ira encontrar o modelo na pasta model juntamente com o tokenizador utiliza
 | **Análise de Sentimento** | Modelo LSTM | Classificação de texto. |
 
 ---
-
-
-```bash
-git clone [https://www.youtube.com/shorts/apr341idq8U](https://www.youtube.com/shorts/apr341idq8U)
-cd [NOME DO SEU PROJETO]
