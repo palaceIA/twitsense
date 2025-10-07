@@ -3,7 +3,7 @@ tf-keras==2.16.0
 
 Keras-Preprocessing==1.1.2
 
-spacy>=3.5.0
+spacy>=3.8.0
 sentence-transformers>=5.1.0
 
 datasets>=4.1.1
