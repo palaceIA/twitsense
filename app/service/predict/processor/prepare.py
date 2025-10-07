@@ -6,18 +6,9 @@ from typing import Any, List,Union
 from core.settings import configs
 
 
-
-
 class Preprocessor:
     def __init__(self):
-        import subprocess
-        import sys
-        try:
-            self.nlp = spacy.load(configs.MODEL_SPACY)
-        except OSError:
-            import subprocess, sys
-            subprocess.check_call([sys.executable, "-m", "spacy", "download", configs.MODEL_SPACY])
-            self.nlp = spacy.load(configs.MODEL_SPACY)
+        self.nlp = spacy.load(configs.MODEL_SPACY)
 
     def fit(self, X: Union[pd.Series, pd.DataFrame, List[str]], y: Any = None) -> "Preprocessor":
         return self
