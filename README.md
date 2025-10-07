@@ -15,7 +15,7 @@
 ---
 
 ## 💡 Sobre o Projeto
-Link video : https://youtu.be/LTPJc6WFo9c
+Link video : https://youtu.be/LTPJc6WFo9c  
 Link do site : https://twitsense-db.streamlit.app/
 
 Este é um sistema robusto de **gerenciamento de comentários** construído com **Streamlit**, **Python** e **Supabase**. Ele não é apenas um CRUD (Create, Read, Update, Delete), mas um sistema inteligente focado em insights imediatos.
