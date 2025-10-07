@@ -2,7 +2,7 @@
 
 | Plataforma |
 | :--- | 
-| ![](img/comment.png) | 
+| ![](img/home.png) | 
 
 
 ## Gerenciador de Comentários com Análise de Sentimento em Tempo Real
@@ -25,6 +25,10 @@ Experimento documentado: [https://www.kaggle.com/code/palaciodata/classification
 Dados: [https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis)  
 Você ira encontrar o modelo na pasta model juntamente com o tokenizador utilizado durante o treinamento
 
+---
+
+## 📁 Modelagem Logica
+![Gráfico de Perda durante o treinamento](img/logic.png) 
 
 ---
 
